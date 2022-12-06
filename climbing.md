@@ -26,6 +26,15 @@ Topo: https://f8i580.p3cdn1.secureserver.net/wp-content/uploads/2019/06/Happy-Bu
 - Panzerboulder in Zwolle:
 https://www.thecrag.com/climbing/netherlands/area/4306417644
 
+- Walvisbunker in Zeeland
+https://www.thecrag.com/climbing/netherlands/area/4320754152
+https://27crags.com/crags/walvisbunker
+
+- Hidden Gem in Vlissingen
+https://www.thecrag.com/climbing/netherlands/area/4320731562
+https://27crags.com/crags/hidden-gem
+
+
 
 ### Kind of Outdoors (if you squint)
 There are also some fake boulders (concrete) or outdoor boulder gyms scattered around the country. See a good summary here:
