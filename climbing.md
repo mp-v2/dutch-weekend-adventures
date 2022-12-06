@@ -5,6 +5,7 @@ Resources
 - http://bouldest.nl
 - https://deklim.site
 - https://nkbv.nl/sport/sportklimmen/buiten/
+- https://www.8a.nu
 
 ### Real Outdoors
 
@@ -23,6 +24,23 @@ https://www.thecrag.com/climbing/belgium/freyr
 
 - Berdorf - sport climbing for everyone
 https://www.thecrag.com/climbing/luxembourg/berdorf
+
+- Dillingen - bouldering, although the area is not (technically) accessible. 
+Still seems to have some ascents logged on 8a.nu though
+https://www.8a.nu/crags/bouldering/germany/dillingen/routes
+
+Just over the border with Germany there is also:
+
+- Ruhrtal - bouldering
+https://www.8a.nu/crags/bouldering/germany/ruhrtal/gallery
+
+- Avalonia - bouldering in a chossy but strange place that was sculpted by a fugitive climber who camped on the land for many years. He built stone artwork here and sold handdrawn guidebooks ..until the police caught up with him
+https://www.8a.nu/crags/bouldering/germany/avalonia/routes
+
+- Isenburg - some sport climbing
+https://www.8a.nu/crags/sportclimbing/germany/isenberg/routes
+
+- Some other smaller areas (a few routes per) exist in the same area as the above. Check them out on one of the linked sites
 
 ### Almost Outdoors
 There are some old war bunkers at the coast which have boulder problems on them
