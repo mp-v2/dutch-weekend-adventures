@@ -26,14 +26,19 @@ Topo: https://f8i580.p3cdn1.secureserver.net/wp-content/uploads/2019/06/Happy-Bu
 - Panzerboulder in Zwolle:
 https://www.thecrag.com/climbing/netherlands/area/4306417644
 
+- Bunkers Clingendael, near Den Haag
+https://www.thecrag.com/climbing/netherlands/the-hague/area/3336120807
+
 - Walvisbunker in Zeeland
 https://www.thecrag.com/climbing/netherlands/area/4320754152
 https://27crags.com/crags/walvisbunker
 
-- Hidden Gem in Vlissingen
+- Hidden Gem, near Vlissingen
 https://www.thecrag.com/climbing/netherlands/area/4320731562
 https://27crags.com/crags/hidden-gem
 
+- Barrel Of Batteries, near Vlissingen
+https://www.thecrag.com/climbing/netherlands/area/6051094182
 
 
 ### Kind of Outdoors (if you squint)
