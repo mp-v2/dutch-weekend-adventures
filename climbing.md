@@ -16,6 +16,14 @@ https://www.thecrag.com/en/climbing/germany/teutoburger-wald/area/2491411392
 - Dörenther Klippen, a small sport climbing crag:
 https://www.thecrag.com/climbing/germany/teutoburger-wald/area/248202042
 
+Belgium has a lot of climbing, although quality can vary
+
+- Freyr - sport climbing for those who like unnecessary run-outs
+https://www.thecrag.com/climbing/belgium/freyr
+
+- Berdorf - sport climbing for everyone
+https://www.thecrag.com/climbing/luxembourg/berdorf
+
 ### Almost Outdoors
 There are some old war bunkers at the coast which have boulder problems on them
 
