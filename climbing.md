@@ -45,11 +45,14 @@ https://www.thecrag.com/climbing/netherlands/area/6051094182
 There are also some fake boulders (concrete) or outdoor boulder gyms scattered around the country. See a good summary here:
 http://bouldest.nl/locations/outdoor/
 
-The 'Spaarnwoude' is an outdoor concrete structure for sport climbing
+- The 'Spaarnwoude' is an outdoor concrete structure for sport climbing
 https://www.thecrag.com/climbing/netherlands/spaarnwoude
 
-Concrete boulder made to be hard
+- Concrete boulder made to be hard
 https://deklim.site/blok-op-zuid/
+
+- Real (small) boulder that decorates a cinema near Maastricht
+https://27crags.com/crags/4-rockxity/
 
 One outdoor gym that feels particularly like a bouldering area is RockSteady in Bussum
 http://www.rocksteady.nl/boulderen
