@@ -5,6 +5,7 @@ Resources:
 - Wilderness society article on the Netherlands: https://wilderness-society.org/is-there-hope-for-wilderness-in-the-netherlands/
 - https://www.staatsbosbeheer.nl/uit-in-de-natuur
 - Old growth forest: https://en.wikipedia.org/wiki/List_of_old-growth_forests#Eurasia
+- Ark is a dutch charity for rebuilding wilderness: https://www.ark.eu
 
 
 ### Real Outdoors
@@ -25,3 +26,4 @@ https://www.eifel.info/en/a-pulvermaar-1
 
 ### More links:
 - Outdoor trips with Staatsbosbeheer (the Dutch nature charity, similar to the National Trust in the UK) are quite cheap and look good. Can include multi-day outings including wild camping with rangers as your guide: https://www.staatsbosbeheer.nl/uit-in-de-natuur/excursies
+- Rewilding projects by Ark are a good way of getting involved with rewilding: https://www.ark.eu/agenda
