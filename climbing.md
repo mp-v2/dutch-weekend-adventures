@@ -5,7 +5,7 @@ Resources
 - http://bouldest.nl
 - https://deklim.site
 - https://nkbv.nl/sport/sportklimmen/buiten/
-- https://www.8a.nu
+- https://www.8a.nu/crags/map
 
 ### Real Outdoors
 
