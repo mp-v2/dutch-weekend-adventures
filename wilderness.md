@@ -1,7 +1,8 @@
 # Wilderness
 
 Resources:
-- Wilderness society: https://wilderness-society.org/is-there-hope-for-wilderness-in-the-netherlands/
+- Ongerepte Natuur (Translation: Wilderness) is a group focusing on Wilderness in the Netherlands: https://www.ongerepte-natuur.nl/
+- Wilderness society article on the Netherlands: https://wilderness-society.org/is-there-hope-for-wilderness-in-the-netherlands/
 - https://www.staatsbosbeheer.nl/uit-in-de-natuur
 - Old growth forest: https://en.wikipedia.org/wiki/List_of_old-growth_forests#Eurasia
 
